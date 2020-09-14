@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/09/14 15:39:06.480,=D:\Meus Documentos\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/09/14 15:39:49.160,D:\Meus Documentos\Documents\Embarcadero\Studio\Projects\Array\uFrmPrincipal.dfm=D:\Meus Documentos\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2020/09/14 15:39:49.160,D:\Meus Documentos\Documents\Embarcadero\Studio\Projects\Array\uFrmPrincipal.pas=D:\Meus Documentos\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/09/14 15:40:03.152,D:\Meus Documentos\Documents\Embarcadero\Studio\Projects\Array\ProjetoArray.dproj=D:\Meus Documentos\Documents\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+    <Transaction>2020/09/14 15:40:15.682,=D:\Meus Documentos\Documents\Embarcadero\Studio\Projects\Array\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 15:40:30.416,D:\Meus Documentos\Documents\Embarcadero\Studio\Projects\Array\uPessoa.pas=D:\Meus Documentos\Documents\Embarcadero\Studio\Projects\Array\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 15:42:08.981,D:\Meus Documentos\Downloads\ProjetoArray.dproj=D:\Meus Documentos\Documents\Embarcadero\Studio\Projects\Array\ProjetoArray.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
